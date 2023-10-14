@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1646506244 source:c:\users\nassim\documents\projects\mini_dictionnaire_algo\main.c
+	<stdio.h>
+	"arbre.h"
+	"dico.h"
+
+1646505534 source:c:\users\nassim\documents\projects\mini_dictionnaire_algo\arbre.c
+	<stdlib.h>
+	"arbre.h"
+
+1645913210 c:\users\nassim\documents\projects\mini_dictionnaire_algo\dico.h
+	"arbre.h"
+
+1646505546 c:\users\nassim\documents\projects\mini_dictionnaire_algo\arbre.h
+
+1643657919 c:\users\nassim\documents\projects\mini_dictionnaire_algo\arbre.c
+	<stdlib.h>
+
+1645913489 source:c:\users\nassim\documents\projects\mini_dictionnaire_algo\dico.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"arbre.h"
+
+1643662127 c:\users\nassim\documents\projects\mini_dictionnaire_algo\structure_donnee.h
+
